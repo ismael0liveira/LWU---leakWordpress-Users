@@ -9,7 +9,7 @@ Pô, será que tem como eu criar uma forma que seria como eu abrisse um terminal
 Bom, seguindo essa ideia eu criei esse código que executa curl em diversas URLS, ele cria um arquivo bash para cada url e depois cria um arquivo bash mestre que executa todos os outros arquivos bash que são as requisições HTTP com CURL, isso de forma segundo plano.
 
 
-Bom, vou resumir: Hoje é 26/agosto/2022. pretendo voltar aqui e atualizar esse projeto, quem sabe se torna uma ferramenta legal para hacking. Então, acompanha aí, logo logo volto. :)
+Bom, vou resumir: Hoje é 26/agosto/2022. pretendo voltar aqui e atualizar esse projeto, quem sabe se torna uma ferramenta legal para hacking ou apenas um repositório com uma ideia. Digo isso porque consigo perceber que essa ideia não serve apenas para vazamento de usuários wordpress, mas também para outros testes como por exemplo LFI. Quem sabe adapdatando melhor esse código/projeto temos aqui diversas cópias deste código, mas com finalidades diferentes, como por exemplo: Um pra teste wordpress, outro para LFI, outro pra Open Redirect, etc. Então, acompanha aí, logo logo volto. :)
 
 Link para o canal do YouTube da Formming Hackers:
 
